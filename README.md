@@ -1,3 +1,4 @@
+
 Fire Fighting Robot 🚒🤖
 An autonomous Arduino-based robot designed to detect and extinguish small fires using flame sensors, IR obstacle detection, and a water pump system. Built as part of our Industry Oriented Mini Project in Electronics and Communication Engineering (2024–2025).
 
